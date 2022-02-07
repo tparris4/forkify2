@@ -1,0 +1,24 @@
+{
+  "name": "forkify2",
+  "version": "1.0.0",
+  "description": "Recipe app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tparris4/forkify2.git"
+  },
+  "author": "Tyler Parris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tparris4/forkify2/issues"
+  },
+  "homepage": "https://github.com/tparris4/forkify2#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}

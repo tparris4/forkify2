@@ -2,7 +2,7 @@
   "name": "forkify2",
   "version": "1.0.0",
   "description": "Recipe app",
-  "main": "index.html",
+  "default": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/tparris4/forkify2#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
     "parcel": "^2.2.1"
   }
 }
